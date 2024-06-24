@@ -66,6 +66,7 @@ es: &DEFAULT_ES
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
+  mod_date_label             : "Última modificación:"
   comments_label             : "Comentar"
   comments_title             : "Deja un comentario"
   more_label                 : "Ver más"
@@ -110,6 +111,7 @@ fr: &DEFAULT_FR
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
   date_label                 : "Mis à jour :"
+  mod_date_label             : "Dernière modification :"
   comments_label             : "Laisser un commentaire"
   comments_title             :
   more_label                 : "Lire plus"
@@ -156,6 +158,7 @@ tr: &DEFAULT_TR
   tags_label                 : "Etiketler:"
   categories_label           : "Kategoriler:"
   date_label                 : "Güncelleme tarihi:"
+  mod_date_label             : "Son Değiştirilme Tarihi:"
   comments_label             : "Yorum yapın"
   comments_title             :
   more_label                 : "Daha fazlasını öğrenin"
@@ -198,6 +201,7 @@ pt: &DEFAULT_PT
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
   date_label                 : "Atualizado em:"
+  mod_date_label             : "Última modificação:"
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
@@ -242,6 +246,7 @@ it: &DEFAULT_IT
   tags_label                 : "Tags:"
   categories_label           : "Categorie:"
   date_label                 : "Aggiornato:"
+  mod_date_label             : "Ultima modifica:"
   comments_label             : "Scrivi un commento"
   comments_title             :
   more_label                 : "Scopri di più"
@@ -284,6 +289,7 @@ zh: &DEFAULT_ZH
   tags_label                 : "标签："
   categories_label           : "分类："
   date_label                 : "发布时间："
+  mod_date_label             : "最后修改："
   comments_label             : "发表评论"
   comments_title             : "评论"
   more_label                 : "了解更多"
@@ -326,6 +332,7 @@ zh-HK: &DEFAULT_ZH_HK
   tags_label                 : "標籤："
   categories_label           : "分類："
   date_label                 : "發布時間："
+  mod_date_label             : "最後修改："
   comments_label             : "發表評論"
   comments_title             : "評論"
   more_label                 : "了解更多"
