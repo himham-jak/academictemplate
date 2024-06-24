@@ -1,7 +1,7 @@
 {% include base_path %}
 
 {% if page.header.image contains "://" %}
-  {% capture img_path %}{{ page.header.image | prepend: "abcd"}}{% endcapture %}
+  {% capture img_path %}{{ page.header.image }}{% endcapture %}
 {% else %}
   {% capture img_path %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% endif %}
