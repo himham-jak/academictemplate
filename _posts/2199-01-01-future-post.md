@@ -11,7 +11,5 @@ tags:
 
 {% include base_path %}
 
-<p>{{base_path}}</p>
-
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
-![Editing a markdown file for a talk](/academictemplate/images/editing-talk.png)
+![Editing a markdown file for a talk]({{base_path}}/images/editing-talk.png)
